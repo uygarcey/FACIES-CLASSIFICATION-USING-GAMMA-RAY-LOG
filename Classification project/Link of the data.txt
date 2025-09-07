@@ -1,0 +1,4 @@
+
+##### Data is too big to upload the e-campus system. That is why I put the link of data given below ######
+
+https://www.kaggle.com/code/kerneler/starter-gamma-log-facies-5d811142-9/data?select=CAX_LogFacies_Train_File.csv
