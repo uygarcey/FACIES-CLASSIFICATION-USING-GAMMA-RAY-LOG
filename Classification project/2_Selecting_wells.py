@@ -29,9 +29,8 @@ from sklearn.model_selection import RepeatedStratifiedKFold
 
 
 
-############################################################################################################################################################
-#### The aim of the code is to get an idea about conditions of wells  before traning phase                                                        ##########                                           
-#### These wells are evaluated by using accuracy and F1-weighted metric for different classifiers                                                  ##########
+############################################################################################################################################################                                         
+#### The wells are evaluated by using accuracy and F1-weighted metric for different classifiers                                                  ##########
 #### Running of the code is finished in  a few minute. There is warning since some wells contain just one sample of certain layers                 ##########
 ############################################################################################################################################################
 
@@ -132,6 +131,7 @@ print(index)
 print('*******************************************')
 print( metric)
 print(results)
+
 
 
 
