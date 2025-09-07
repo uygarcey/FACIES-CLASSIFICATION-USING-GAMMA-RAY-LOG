@@ -1,10 +1,10 @@
-# DATA
+
 <img width="162" height="88" alt="image" src="https://github.com/user-attachments/assets/28edf88c-2749-44dc-81b5-d3295a1931ca" />
-# LAYER_DISTRIBUTION
+
 <img width="463" height="81" alt="image" src="https://github.com/user-attachments/assets/74fd805b-a6da-4c2e-b023-2a94abc38fb0" />
-# WORK_FLOW
+
 <img width="530" height="292" alt="data" src="https://github.com/user-attachments/assets/2faf4dd9-e58b-4150-892a-81eb4e1981ae" />
-# DECİSİON_TREE
+
 <img width="500" height="302" alt="Layer_Distri" src="https://github.com/user-attachments/assets/5216b962-3e8a-4058-a396-c10fb6ce59c6" />
 
 <img width="190" height="290" alt="Work_Flow" src="https://github.com/user-attachments/assets/7297b880-2a79-44a7-8617-da748e2b318c" />
