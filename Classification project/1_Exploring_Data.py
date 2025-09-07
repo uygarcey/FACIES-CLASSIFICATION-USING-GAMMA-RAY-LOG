@@ -1,4 +1,4 @@
-#This code checks of completeness data, plot distribution of layer types and correlation matrix of traning data
+
 
 import numpy as np
 import pandas as pd
@@ -11,7 +11,7 @@ import missingno as msno
 
 
 ############################################################################################################################
-#### This code checks  completeness of the data, and plots distribution of layer types and correlation matrix of all data ##
+#### #This code checks  completeness of data, plots distribution of layer types and correlation matrix of traning dataa ##
 ############################################################################################################################
 
 
@@ -55,4 +55,5 @@ plt.show()
 
 
   
+
 
