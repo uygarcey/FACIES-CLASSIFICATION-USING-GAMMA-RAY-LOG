@@ -55,7 +55,7 @@ from sklearn.metrics import confusion_matrix,ConfusionMatrixDisplay
                                                     
                                   #######################################################
                                   #### This code performs traning and predicitions ######
-                                  #### Running of the code is finished in  a few minutes#
+                            #
                                   #######################################################
 
 #read data
@@ -304,5 +304,6 @@ for i in range(cols):
     ax[i].set_title('PRED. FACIES') 
 
 plt.show()
+
 
 
