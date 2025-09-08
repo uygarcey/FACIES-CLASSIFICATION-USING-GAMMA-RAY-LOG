@@ -31,7 +31,7 @@ from sklearn.model_selection import RepeatedStratifiedKFold
 
 ############################################################################################################################################################                                         
 #### The wells are evaluated by using accuracy and F1-weighted metric for different classifiers                                                  ##########
-#### Running of the code is finished in  a few minute. There is warning since some wells contain just one sample of certain layers                 ##########
+#### Running of the code is finished in  a few minutes.  (Some wells contain just one sample of certain layers)                                  ##########
 ############################################################################################################################################################
 
 #read data
@@ -131,6 +131,7 @@ print(index)
 print('*******************************************')
 print( metric)
 print(results)
+
 
 
 
