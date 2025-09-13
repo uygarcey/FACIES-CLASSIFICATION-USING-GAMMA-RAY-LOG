@@ -3,7 +3,6 @@
 
 <img width="500" height="302" alt="Layer_Distri" src="https://github.com/user-attachments/assets/5216b962-3e8a-4058-a396-c10fb6ce59c6" />
 
-<img width="190" height="290" alt="Work_Flow" src="https://github.com/user-attachments/assets/7297b880-2a79-44a7-8617-da748e2b318c" />
 
 <img width="536" height="287" alt="Decision Tree" src="https://github.com/user-attachments/assets/49b9f47d-1ad0-4650-adef-b3d0734d7786" />
 
