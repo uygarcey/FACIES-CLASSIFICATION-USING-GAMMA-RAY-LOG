@@ -127,7 +127,7 @@ features_well = scaler.transform(features_well1)
 X_well=features_well
 y_well=layer_well
 
-#Creating tests traning data sets
+#Creating  traning data sets
 
 
 X_train, X_test, y_train, y_test =  train_test_split(X, y, test_size = 0.3, random_state =1017)
@@ -146,7 +146,7 @@ print('*******************************************************')
 
 
 
-#select best parameters.Hyperprameter tuning.Use it for new wells to be employed for training
+#select best parameters for classifiers (hyperprameter tuning). Use it for new wells to be employed for training
 
 def hyper_parameter(classifier,parameters,X_train,y_tarin):
    scoring='accuracy' # scoring='f1_weighted'
@@ -304,6 +304,7 @@ for i in range(cols):
     ax[i].set_title('PRED. FACIES') 
 
 plt.show()
+
 
 
 
