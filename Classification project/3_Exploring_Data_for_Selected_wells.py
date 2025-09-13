@@ -8,7 +8,7 @@ import seaborn as sns
 
 
 #########################################################################################################################
-####     This code plots distribution of layer types and correlation matrix of selected well to be used for training ####
+####     This code plots distribution of layer types and correlation matrix of selected well ( to be used for training) #
 #########################################################################################################################
 
 GR_Log = pd.read_csv('CAX_LogFacies_Train_File.csv')
@@ -48,4 +48,5 @@ plt.show()
 
 
   
+
 
